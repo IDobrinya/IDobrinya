@@ -23,3 +23,7 @@ I'm Artem, self-taught passionate Backend developer from Russia
 
 - Keen on integrating AI models
 - Interested in working with high-load distributed systems
+
+---
+
+[![Codewars](https://www.codewars.com/users/Dobrinya/badges/large)](https://www.codewars.com/users/Dobrinya)
