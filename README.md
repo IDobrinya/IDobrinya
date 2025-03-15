@@ -30,5 +30,8 @@ I'm Artem, self-taught passionate Backend developer from Russia
 
 ---
 
-Contact me: <a href="https://t.me/Dobrinya">@Dobrinya</a>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png">
+  Contact me: <a href="https://t.me/Dobrinya">@Dobrinya</a>
+</p>
 
