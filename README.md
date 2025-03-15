@@ -7,7 +7,7 @@ I'm Artem, self-taught passionate Backend developer from Russia
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="30"/>
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="30"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img alt="langchain" src="https://i.postimg.cc/521g64QV/langchain.png" height="30"/>
+  <img alt="langchain" src="https://postimg.cc/VdGnhcFG" height="30"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30"/>
 </p>
 <h3>Other things i worked with</h3>
