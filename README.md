@@ -23,7 +23,7 @@ I'm Artem, self-taught passionate Backend developer
 
 ---
 
-- Keen on integrating AI models
+- Keen on integrating AI features
 - Interested in working with high-load distributed systems
 
 ---
