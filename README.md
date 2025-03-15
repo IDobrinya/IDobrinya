@@ -21,4 +21,5 @@ I'm Artem, self-taught passionate Backend developer from Russia
 
 ---
 
-- Interested in ML / DataScience
+- Keen on integrating AI models
+- Interested in working with high-load distributed systems
