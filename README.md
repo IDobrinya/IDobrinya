@@ -27,3 +27,7 @@ I'm Artem, self-taught passionate Backend developer from Russia
 ---
 
 [![Codewars](https://www.codewars.com/users/Dobrinya/badges/large)](https://www.codewars.com/users/Dobrinya)
+
+---
+
+Contact me: <a>href="https://t.me/Dobrinya" text=@Dobrinya</a>
