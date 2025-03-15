@@ -18,5 +18,5 @@ I'm Artem, self-taught passionate Backend developer from Russia
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
 </p>
-
+<hr>
 - Interested in ML / DataScience
