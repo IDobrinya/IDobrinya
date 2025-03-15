@@ -30,4 +30,5 @@ I'm Artem, self-taught passionate Backend developer from Russia
 
 ---
 
-Contact me: <a>href="https://t.me/Dobrinya"> @Dobrinya</a>
+Contact me: <a href="https://t.me/Dobrinya">@Dobrinya</a>
+
