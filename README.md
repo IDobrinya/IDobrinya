@@ -1,7 +1,7 @@
 <h1><img src="https://s6.gifyu.com/images/bbGcr.gif" width="40"/> Hello! </h1>
 
-I'm Artem, self-taught passionate Backend developer
-<!-- <p>I'm Artem, self-taught passionate Backend developer from <img src="https://cdn.countryflags.com/thumbs/russia/flag-round-250.png" alt="telegram" width="11">Russia</p> -->
+I'm Daniela, self-taught passionate Backend developer
+<!-- <p>I'm Daniela, self-taught passionate Backend developer from <img src="https://cdn.countryflags.com/thumbs/russia/flag-round-250.png" alt="telegram" width="11">Russia</p> -->
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
